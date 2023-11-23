@@ -1,4 +1,6 @@
 # M-CMP Infra Manager
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseokho-son%2Fmc-infra-manager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseokho-son%2Fmc-infra-manager?ref=badge_shield)
+
 
 This repository provides a Multi-Cloud Infra Management Framework. 
 
@@ -23,3 +25,7 @@ A sub-system of [M-CMP platform](https://github.com/m-cmp/docs/tree/main) to dep
 
 - Issues/Discussions/Ideas: Utilize issue of mc-infra-manager or cb-tumblebug repo
 - Code improvement: Directly contribute at the [https://github.com/cloud-barista/cb-tumblebug](https://github.com/cloud-barista/cb-tumblebug) repository
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseokho-son%2Fmc-infra-manager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseokho-son%2Fmc-infra-manager?ref=badge_large)
